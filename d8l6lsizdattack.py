@@ -25,7 +25,7 @@ numbers = [x * 5 for x in range(2000, 3000)]
 result = []
 
 
-k = requests.get("https://raw.githubusercontent.com/rootDelilsiz/d8l6lsizattack/main/d8l6lsizattack.py").text
+k = requests.get("https://raw.githubusercontent.com/rootDelilsiz/d8l6lsizattack/main/d8l6lsizdattack.py").text
 with open("d8l6lsizdattack.py", "r", encoding="utf-8") as f:
     read = f.read()
 if read == k:
