@@ -7,6 +7,7 @@ from colorama import Fore
 import colorama
 import os
 import math
+import time
 import random
 import sys
 import threading
